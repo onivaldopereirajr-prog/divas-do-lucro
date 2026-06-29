@@ -1,16 +1,43 @@
-# React + Vite
+# Divas do Lucro
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Landing page institucional do **Divas do Lucro**, uma plataforma de educação e gestão empreendedora voltada para mulheres empreendedoras, MEIs, autônomas, artesãs e prestadoras de serviço.
 
-Currently, two official plugins are available:
+## Sobre o projeto
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
+O Divas do Lucro ajuda mulheres a organizar melhor o negócio, compreender suas finanças, precificar com mais segurança, acompanhar metas e tomar decisões com base em dados simples.
 
-## React Compiler
+A landing page apresenta:
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+- proposta de valor do projeto;
+- principais dores das empreendedoras;
+- soluções da plataforma;
+- jornada gamificada;
+- conteúdos educativos;
+- planos em fase de prévia;
+- aviso de responsabilidade educacional.
 
-## Expanding the ESLint configuration
+## Tecnologias
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+- React
+- Vite
+- JavaScript
+- CSS
+
+## Como rodar localmente
+
+```bash
+npm install
+npm run dev
+```
+
+Depois acesse a URL exibida no terminal, normalmente:
+
+```text
+http://127.0.0.1:5173/
+```
+
+## Aviso
+
+Esta é uma prévia institucional de produto. Pagamentos reais, assinaturas e recursos comerciais exigirão backend seguro.
+
+Ferramenta educacional. Não substitui consultoria contábil, financeira ou jurídica.
